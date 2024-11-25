@@ -1,0 +1,4 @@
+D:/HuffmanCompressionTool/build/CMakeFiles/HuffmanCompressionTool.dir
+D:/HuffmanCompressionTool/build/CMakeFiles/edit_cache.dir
+D:/HuffmanCompressionTool/build/CMakeFiles/rebuild_cache.dir
+D:/HuffmanCompressionTool/build/CMakeFiles/HuffmanCompressionTool_autogen.dir

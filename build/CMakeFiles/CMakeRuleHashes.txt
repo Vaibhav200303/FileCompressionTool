@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+dbcdfd5a07598ca617f9dc3e5868736f CMakeFiles/HuffmanCompressionTool_autogen
+db3454cbffd80171080cbe6ad3e871a9 HuffmanCompressionTool_autogen/timestamp
